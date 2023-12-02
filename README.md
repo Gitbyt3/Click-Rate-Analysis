@@ -1,4 +1,4 @@
-# CLick Rate Analysis for the Center for Indonesian Policy Studies (CIPS)
+# Click Rate Analysis for the Center for Indonesian Policy Studies (CIPS)
 > This project aimed to understand whether CIPS' publication downloads were decreasing and, if so, why.
 
 ## Datasets
